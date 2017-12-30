@@ -1,0 +1,25 @@
+{
+  "name": "crypto-currency-conky",
+  "version": "1.0.0",
+  "description": "Conky crypto-currency price graphs",
+  "main": "index.js",
+  "bin": {
+    "ccconky": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSN64/crypto-currency-conky.git"
+  },
+  "author": "osn64",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OSN64/crypto-currency-conky/issues"
+  },
+  "homepage": "https://github.com/OSN64/crypto-currency-conky#readme",
+  "dependencies": {
+    "crypto-price": "0.0.4"
+  }
+}
